@@ -1,6 +1,6 @@
 # klpt — turn presentations into pictures and text
 
-> A quiet macOS app that captures slides and transcribes the speaker — entirely on your Mac.
+> A magical macOS experience for people who like to keep what they watch as manageable, synthesizable pictures and text — not video and audio.
 
 **Preview build · WWDC 2026.** This repository hosts binary releases of klpt. It is **not** open source at this time; no source code is published here.
 
